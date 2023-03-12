@@ -5,4 +5,3 @@ Hi! I'm Dogth, and I'm into FPGAs and low-level stuff, kinda...
 * FPGAs
 * Electronics 
 * Full stack development 
-* Hardware/Software design 
