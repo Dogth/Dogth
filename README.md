@@ -1,4 +1,4 @@
 # About
 Hej!(Hallo)
 
-*Just a 21 y/o wanna be wanting to be better*
+*Just a 21 y/o wannabe wanting to be better*
