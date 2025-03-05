@@ -1,6 +1,6 @@
 # Hej!(Hallo)🐶
 
-Just a 21y/o wannabe trying their best to learn and grow.
+Just a 22y/o wannabe trying their best to learn and grow.
 
 My primary focus is on Java and C++, but I'm still exploring and trying to find my niche.
 
