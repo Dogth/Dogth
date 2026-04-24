@@ -7,7 +7,7 @@ My primary focus is on Java and C++, but I'm still exploring and trying to find 
 ## Interested in
 
 - Mathematics
-- Full-stack development (especially microservices)
+- Full-stack development
 - Artificial Intelligence
 - Embedded systems
 
